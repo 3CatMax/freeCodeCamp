@@ -16,7 +16,7 @@ Our full-stack web development curriculum is completely free and self-paced. We 
 * [Certifications](#certifications)
 * [The Learning Platform](#the-learning-platform)
 * [Found a Bug](#found-a-bug)
-* [Found a security issue](#found-a-security-issue)
+* [Found a Security Issue](#found-a-security-issue)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -120,11 +120,11 @@ Our community also has:
 
 ### [Join our community here](https://www.freecodecamp.org/signin).
 
-### Found a bug?
+### Found a Bug?
 
 If you think you've found a bug, first read the [Help I've Found a Bug](https://www.freecodecamp.org/forum/t/how-to-report-a-bug/19543) article and follow its instructions. If you're confident it's a new bug, and have confirmed that someone else facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
 
-### Found a security issue?
+### Found a Security Issue?
 
 Please don't create GitHub issues for security issues. Instead, please send an email to `security@freecodecamp.org` and we'll look into it immediately.
 
@@ -136,7 +136,7 @@ Please don't create GitHub issues for security issues. Instead, please send an e
 
 Copyright © 2018 freeCodeCamp.org
 
-The content of this repository bound by the following licenses:
+The content of this repository is bound by the following licenses:
 
 - The computer software is licensed under the [BSD-3-Clause](LICENSE.md) License.
 - The [curricular content](https://www.npmjs.com/package/@freecodecamp/curriculum) in the [`/curriculum`](/curriculum) folder and its subdirectories are licensed under the [CC-BY-SA-4.0](/curriculum/LICENSE.md) License.
